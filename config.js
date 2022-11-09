@@ -73,15 +73,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Outlook',
-			icon: 'inbox',
-			link: 'https://outlook.office.com/mail/',
-		},
-		{
-			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
+		},
+		{
+			id: '5',
+			name: 'Outlook',
+			icon: 'inbox',
+			link: 'https://outlook.office.com/mail/',
 		},
 		{
 			id: '6',
